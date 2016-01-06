@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <Stable>
+    <w7>
+      <Filename>OrionOS-hlte-2.0-OFFICIAL-xxxxxxxx.zip</Filename>
+      <RomUrl description="Download the latest OrionOs build" id="rom" title="Rom">LINK HERE</RomUrl>
+      <ChangelogUrl description="Changelog" id="changelog" title="Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+      <GappsUrl description="Download the latest SlimGapps" id="gapps" title="Gapps">https://goo.gl/Kryunb</GappsUrl>
+      <XDAUrl description="Have a look at the code" id="xda" title="Github">https://github.com/TeamOrion</XDAUrl>
+    </w7>
+  </Stable>
+</SlimOTA>
