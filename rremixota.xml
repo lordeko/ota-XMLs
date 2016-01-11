@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <hlte>
-            <Filename>ResurrectionRemix-M-v5.6.0-20160106-hlte.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.0-20160106-hlte</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
