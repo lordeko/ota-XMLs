@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <hlte>
+            <Filename>weeklies-XenonHD-20151004</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest XenonHD build">https://mirrors.c0urier.net/android/teamhorizon/weeklies/bacon/update-XenonHD-10-04-15-signed-bacon.zip</RomUrl>
+            <MD5Url
+                id="md5"
+                title="Md5"
+                description="Download XenonHD build md5">https://mirrors.c0urier.net/android/teamhorizon/weeklies/bacon/update-XenonHD-10-04-15-signed-bacon.zip.md5sum</MD5Url>
+            <DownloadsURL
+                id="downloads"
+                title="Downloads"
+                description="XenonHD Downloads for all builds">https://mirrors.c0urier.net/?dir=android/teamhorizon</DownloadsURL>
+            <BaNkSGappsUrl
+                id="banksgapps"
+                title="BaNkS Gapps"
+                description="BaNks Gapps Downloads">https://mirrors.c0urier.net/?dir=android/teamhorizon/gapps</BaNkSGappsUrl>
+            <TKGappsUrl
+                id="tkgapps"
+                title="TK Gapps"
+                description="TK Gapps Downloads">http://forum.xda-developers.com/android/software/tk-gapps-t3116347</TKGappsUrl>
+            <OpenGappsUrl
+                id="opengapps"
+                title="Open Gapps"
+                description="Open Gapps Downloads">http://opengapps.org</OpenGappsUrl>
+        </hlte>
+    </Stable>
+</SlimOTA>
