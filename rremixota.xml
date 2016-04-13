@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <hlte>
-            <Filename>ResurrectionRemix-M-v5.6.6-20160409-hlte</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160413-hlte</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24459283995317452</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/hlte</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
