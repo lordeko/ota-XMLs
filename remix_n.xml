@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <hlte>
-            <Filename>RR-N-v5.8.0-20170107-hlte-Beta4</Filename>
+            <Filename>RR-N-v5.8.0-20170113-hlte-Beta5</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=385035244224410829</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=457095661767129506</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Jairus980 Purify-Repack HLTE"
