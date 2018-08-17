@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <whyred>
-            <Filename>RR-O-v6.1.0-20180810-whyred-Unofficial</Filename>
+            <Filename>RR-O-v6.1.0-20180817-whyred-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
